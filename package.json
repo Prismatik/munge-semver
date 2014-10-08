@@ -1,6 +1,6 @@
 {
   "name": "munge-semver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Munge just about anything into something that looks like a semver if you squint hard enough.",
   "main": "index.js",
   "scripts": {
