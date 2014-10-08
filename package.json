@@ -1,0 +1,24 @@
+{
+  "name": "munge-semver",
+  "version": "1.0.0",
+  "description": "Munge just about anything into something that looks like a semver if you squint hard enough.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/munge-semver"
+  },
+  "keywords": [
+    "semver",
+    "munge",
+    "slightly-awful"
+  ],
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/munge-semver/issues"
+  },
+  "homepage": "https://github.com/Prismatik/munge-semver"
+}
