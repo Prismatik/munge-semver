@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Prismatik/munge-semver/issues"
   },
-  "homepage": "https://github.com/Prismatik/munge-semver"
+  "homepage": "https://github.com/Prismatik/munge-semver",
+  "dependencies": {
+    "semver": "^4.0.3"
+  }
 }
